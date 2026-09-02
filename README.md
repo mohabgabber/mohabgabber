@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Mohab Gabber 👋
 
-<!--
-**mohabgabber/mohabgabber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Agency Builder · Quant Trader · Financial Analyst
 
-Here are some ideas to get you started:
+I build agencies and businesses, trade quantitative strategies, and turn financial data into better decisions. I am a serial entrepreneur and former security engineer, so I approach both business and markets with a systems-first, risk-aware mindset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗️ **Building:** agencies, companies, and operating systems through [Aktyvus](https://aktyvus.co.uk)
+- 📈 **Trading:** quantitative strategies, market structure, execution, and risk
+- 📊 **Analyzing:** businesses, markets, valuation, and financial performance
+- 🛡️ **Background:** former security engineer
+- 🧠 **Tools:** Python, AI agents, models, and Excel for business and finance
+
+## Current focus
+
+- Quantitative trading research and execution
+- Agency building and business systems
+- Financial analysis, valuation, and risk
+- Practical finance and business education
+
+## Connect
+
+[Website](https://mohabgabber.com) · [LinkedIn](https://www.linkedin.com/in/mohabgabber) · [Instagram](https://www.instagram.com/mohab_gabber/) · [Aktyvus](https://aktyvus.co.uk)
+
+> Build the business. Test the model. Respect the risk.
