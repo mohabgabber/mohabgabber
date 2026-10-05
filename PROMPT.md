@@ -6,21 +6,23 @@ Maintain the public GitHub profile repository `mohabgabber/mohabgabber`. Its roo
 
 ## Positioning
 
-Follow the approved personal website's three areas of work, in this order:
+Describe the work and skills relevant to finance jobs and internships, in this order:
 
-1. Business strategy and growth, including agency building and business consulting.
+1. Business strategy and analysis, including business models, pricing, margins, operations, and recommendations.
 2. Financial analysis, including company economics, valuation, cash flow, and capital allocation.
 3. Quantitative trading, including systematic research, testing, execution, and risk.
 
-Mohab is Managing Partner of Aktyvus Group, a former security engineer, and is studying WorldQuant University's MScFE. Present quantitative trading as his current work, not an aspiring role. Do not claim the degree is completed. Python, Excel, models, and AI-assisted research are supporting tools, not a programmer or developer job identity.
+Mohab works across business analysis, financial analysis, and systematic trading. He is a former security engineer and is studying WorldQuant University's MScFE. Present quantitative trading as his current work, not an aspiring role. Do not claim the degree is completed. Python, Excel, data analysis, and financial models are supporting tools, not a programmer or developer job identity.
+
+The user explicitly requested a practitioner-focused GitHub profile suitable for jobs and internships. Omit founder, ownership, serial-entrepreneur, Managing Partner, executive, and senior-leadership framing from the bio, README, and repository description. Do not replace these with an invented job title, seniority level, or employment relationship. Describe actual tasks and skills instead. Omit AI-related positioning, including AI-assisted or AI-ethics research. This GitHub-specific preference overrides older founder-led branding; do not change other platforms without authorisation.
 
 ## Public profile fields
 
 - Name: Mohab Gabber.
-- Bio: `Agency building & business growth | Financial analysis | Quantitative trading. Managing Partner @aktyvusco. Former security engineer.`
-- Company: `@aktyvusco`.
+- Bio: `Business strategy & analysis | Financial analysis | Quantitative trading. Python & Excel. Former security engineer.`
+- Company: leave empty, matching the user's current profile.
 - Website: `https://mohabgabber.com/`.
-- Repository description: `Business strategy & growth, financial analysis, and quantitative trading. Managing Partner at Aktyvus Group. Former security engineer.`
+- Repository description: `Business strategy and analysis, financial analysis, and quantitative trading. Python, Excel, financial modelling, and risk.`
 - Repository homepage: `https://mohabgabber.com/`.
 
 These fields are managed separately from the README. Changing this document does not update GitHub account settings. Recheck their live values before claiming that changes are published.
@@ -36,7 +38,6 @@ Do not foreground SEO, marketing services, exit readiness, investor readiness, o
 - Website and CV: https://mohabgabber.com/
 - LinkedIn: https://www.linkedin.com/in/mohabgabber/
 - Writing: https://mohabgabber1.substack.com/
-- Aktyvus Group: https://aktyvus.co.uk/
 
 ## Editing and verification
 

@@ -1,22 +1,20 @@
 # Mohab Gabber
 
-**Business strategy & growth · Financial analysis · Quantitative trading**
+**Business strategy & analysis · Financial analysis · Quantitative trading**
 
-I build businesses. I analyse companies. I trade systematically.
+I work on business strategy, financial analysis, and systematic trading. I use research, data, and financial models to understand businesses and markets and support decisions.
 
-I'm the Managing Partner of [Aktyvus Group](https://aktyvus.co.uk/). I work with agencies and growing businesses on their direction, operations, and financial decisions. Alongside that, I research and trade systematic strategies.
+## Business strategy & analysis
 
-## Business strategy & growth
-
-I help agency owners connect their plans with what happens day to day: what they sell, how they price it, how the team delivers, and whether the numbers make sense. My work brings together business consulting, commercial decisions, and the systems behind delivery.
+I analyse business models, pricing, margins, and operations. My work involves understanding how a business earns money, identifying problems, and turning findings into practical recommendations.
 
 ## Financial analysis
 
-I look at how companies make money, what drives their value, and where the risks sit. That includes company analysis, valuation, cash flow, unit economics, and capital allocation. The goal is to make a decision clearer, not a spreadsheet more complicated.
+I work on company analysis, valuation, cash flow, unit economics, and capital allocation. I use financial models to compare scenarios, test assumptions, and understand the risks behind a decision.
 
 ## Quantitative trading
 
-I research and trade systematic strategies using data, Python, and defined risk limits. I turn market ideas into testable rules, check the assumptions, and account for costs and execution. A convincing backtest is a starting point, not proof that a strategy will work live.
+I research and trade systematic strategies using data, Python, and defined risk limits. My work includes turning market ideas into testable rules, backtesting, assessing transaction costs, and reviewing performance and risk.
 
 ## A little about me
 
@@ -24,8 +22,8 @@ I started in security engineering. It taught me to question assumptions, investi
 
 I'm also studying financial engineering through WorldQuant University's MScFE.
 
-My toolkit includes **Python, Excel, financial models, and AI-assisted research**. The focus is always the business or market question they help me answer.
+My main tools are **Python, Excel, data analysis, and financial modelling**.
 
 ## Connect
 
-[Website & CV](https://mohabgabber.com/) · [LinkedIn](https://www.linkedin.com/in/mohabgabber/) · [Writing](https://mohabgabber1.substack.com/) · [Aktyvus Group](https://aktyvus.co.uk/)
+[Website & CV](https://mohabgabber.com/) · [LinkedIn](https://www.linkedin.com/in/mohabgabber/) · [Writing](https://mohabgabber1.substack.com/)
